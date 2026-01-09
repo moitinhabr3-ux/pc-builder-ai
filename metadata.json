@@ -1,0 +1,6 @@
+
+{
+  "name": "PC Master Builder AI",
+  "description": "An intelligent PC build generator that uses Google Gemini to find the best components within your budget, ensuring compatibility and real-time market pricing.",
+  "requestFramePermissions": []
+}
